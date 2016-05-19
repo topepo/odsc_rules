@@ -8,6 +8,7 @@ Notes and code for the workshop "Rule-Based Models for Regression and Classifica
 The packages are used to create the majority of the slides:
 
  * [`C50`](https://cran.r-project.org/package=C50) 
+ * [`car`](https://cran.r-project.org/package=car) 
  * [`caret`](http://topepo.github.io/caret/)
  * [`Cubist`](https://cran.r-project.org/package=Cubist)
  * [`ggmap`](https://cran.r-project.org/package=ggmap)
